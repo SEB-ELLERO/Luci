@@ -5,7 +5,7 @@ This is the source of the lamp robot as shown in https://www.youtube.com/watch?v
 
 ### Contents
     /documentation	an article issued in the ODROID magazine describing the making-of
-    /schematics		the schematics of the PBC controlled by an ODROID U3
+    /schematics		the schematics of the PBC controlled by an RaspberryPI
     /CAD			TurboCAD files with hinges and lamp shade
 
     /sources						
